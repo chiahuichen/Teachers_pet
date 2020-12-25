@@ -13,7 +13,7 @@ import string
 import math
 
 
-class SimpleTextEditor():
+class SimpleTextEditor:
     """set up text edit program with __init__ and callback functions"""
     
     def __init__(self):
