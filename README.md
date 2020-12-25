@@ -6,10 +6,10 @@ timer,
 word count,
 open file,
 new file,
-save file, 
+save file ('file saved' appears at the SW corner when a file saved successfully)
 save as,
 theme, 
-showing a warning if a file is not saved before closed.
+showing a warning if a file is not saved before closing.
 
 There are other functions currently under development.
 
