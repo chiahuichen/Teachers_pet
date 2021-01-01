@@ -164,7 +164,6 @@ class SimpleTextEditor:
         self.timer_stop = True
         
     
-    
     def open_file(self):
         """open file for editing"""
         file = askopenfilename(title='Choose A File ',)
@@ -184,7 +183,6 @@ class SimpleTextEditor:
     def new_file(self):
         """create a new window to start a new file"""
         SimpleTextEditor()
-
 
 
     def save(self):
